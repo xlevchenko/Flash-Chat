@@ -1,6 +1,8 @@
 # Flash-Chat
 
-Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. We will be using a service called Firebase Firestore as a backend database to store and retrieve our messages from the cloud. 
+Flash Chat is an internet based messaging app.
+![flash](https://user-images.githubusercontent.com/34953510/142219921-be075a20-1fff-4971-a10a-b291e7d88b30.gif)
+
 
 ## What I learned
 
